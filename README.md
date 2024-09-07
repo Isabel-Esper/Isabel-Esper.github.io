@@ -1,1 +1,3 @@
-Abouot Me - IT105 Project
+About Me - IT105 Project
+# Isabel Shelatz
+Student at Juniata College
