@@ -3,7 +3,7 @@
 ### Student at Juniata College - Sophomore Student whos goal is to figure out what to do with her life 
 
 ---
- ## Site Navigator
+ *Site Navigator* 
  
 [Juniata College](https://Isabel-Esper.github.io/#Juniata-College)       
 
