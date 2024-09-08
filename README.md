@@ -4,6 +4,7 @@
 
 ---
  ### Site Navigator
+ 
 [Juniata College](https://Isabel-Esper.github.io/#Juniata-College)       
 
 [Iroquois Boating and Fishing Club](https://Isabel-Esper.github.io/#Iroquois-Club)
